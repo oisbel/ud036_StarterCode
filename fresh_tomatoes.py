@@ -40,7 +40,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #CEBF95;
             cursor: pointer;
         }
         .scale-media {
@@ -109,6 +109,7 @@ main_page_content = '''
           <div class="navbar-header">
             <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
           </div>
+          <a target="_blank" href="https://github.com/oisbel/ud036_StarterCode.git" style="margin:10px;float: right">See Code</a>
         </div>
       </div>
     </div>

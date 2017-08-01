@@ -1,5 +1,6 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
+Using python to create an static web page allowing visitors to browse movies and watch the trailers.
 
 How to download:
 	-The code is available at https://github.com/oisbel/ud036_StarterCode.git
