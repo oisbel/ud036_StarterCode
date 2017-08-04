@@ -38,6 +38,7 @@ main_page_head = '''
         .movie-tile {
             margin-bottom: 20px;
             padding-top: 20px;
+            box-shadow: 0px 0px 26px -7px rgba(0,0,0,0.75);
         }
         .movie-tile:hover {
             background-color: #CEBF95;
